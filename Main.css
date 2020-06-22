@@ -5,6 +5,7 @@ body {
   nav{
     background-color: grey;
     position: fixed;
+    inp
     top: 0;
     Left: 0;
     height: 50px;
@@ -27,13 +28,12 @@ body {
   text-decoration: none;
   font-family: 'Acme', san-serif;
     }
-    .nav-link::placeholder {
-color: blueviolet
-    }
+
   
    .nav-link:hover {
     color: lightblue;
     font-weight: bold;
+
   }
   #brand .nav-link {
     color: lightblue;
